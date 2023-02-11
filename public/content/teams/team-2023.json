@@ -1,0 +1,113 @@
+{
+	"execom":[
+		{
+			"name": "Dr. Vishnukumar S",
+			"post": "Chair",
+			"image": "/images/office23/drvishnukumars.jpg",
+			"linkedin": "https://www.linkedin.com/in/dr-vishnukumar-s-a41bb643/"
+		},
+		{
+			"name": "Dr. Deepthi Sasidharan",
+			"post": "Vice Chair",
+			"image": "/images/office23/drdeepthis.jpg",
+			"linkedin": "https://www.linkedin.com/in/deepthi-sasidharan-26330b7/"
+		},
+		{
+			"name": "Prof. Sarju S",
+			"post": "Secretary",
+			"image": "/images/office23/profsarjus.jpg",
+			"linkedin": "https://in.linkedin.com/in/sarju-s"
+		},
+		{
+			"name": "Prof. Anu Maria Joykutty",
+			"post": "Treasurer",
+			"image": "/images/office23/profanumaria.jpg",
+			"linkedin": "https://www.linkedin.com/in/anu-maria-joykutty-6997671a7/"
+		},
+		{
+			"name": "Mr. Akhil Raj",
+			"post": "Joint Secretary, YP",
+			"image": "/images/office23/mrakhilraj.jpg",
+			"linkedin": "https://www.linkedin.com/in/1akhil-raj"
+		},
+		
+		{
+			"name": "Mr. Karthik K",
+			"post": "Joint Secretary, Industry",
+			"image": "/images/office23/mrkarthikk.jpg.jpg",
+			"linkedin": "https://in.linkedin.com/in/karthik1997"
+		},
+		{
+			"name": "Ms. Chethana Raj",
+			"post": "Student Representative",
+			"image": "/images/office23/mschethanarajjpg",
+			"linkedin": "https://in.linkedin.com/in/chethana-raj-88a5a01b0"
+		},
+		{
+			"name": "Mr. Sandeep EP",
+			"post": "Technical Coordinator",
+			"image": "/images/office23/mrsandeepep.jpg",
+			"linkedin": "https://www.linkedin.com/in/sandeep-e-p-3a13a6208"
+		},
+		{
+			"name": "Mr. Devanarayanan",
+			"post": "Electronic Communication Coordinator",
+			"image": "/images/office23/mrdevanarayanansv.jpg",
+			"linkedin": "https://www.linkedin.com/in/devanarayanansv"
+		},
+		{
+			"name": "Ms. Maria Tresa Binu",
+			"post": "Women in Computing Coordinator",
+			"image": "/images/office23/msmariatresabinu.jpg",
+			"linkedin": "https://www.linkedin.com/in/maria-tresa-binu-a23722241"
+		},
+		{
+			"name": "Ms. Vishnupriya G",
+			"post": "Travancore Hub Student Representative",
+			"image": "/images/office23/msvishnupriyag.jpg",
+			"linkedin": "https://www.linkedin.com/in/vishnupriya-girish-4072571b8"
+		},
+		{
+			"name": "Ms. Anna Ann Mathew",
+			"post": "Kochi Hub Student Representative",
+			"image": "/images/office23/msannamathew.jpg",
+			"linkedin": "https://www.linkedin.com/in/anna-mathew-b10572214"
+		},
+		{
+			"name": "Ms. Afra Musthafa",
+			"post": "Malabar Hub Student Representative",
+			"image": "/images/office23/msaframusthafa.jpg",
+			"linkedin": "https://www.linkedin.com/in/afra-musthafa-4000451bb"
+		},
+		{
+			"name": "Mr. Jerin Paul",
+			"post": "Webmaster",
+			"image": "/images/office23/mrjerinpaul.jpg",
+			"linkedin": "https://www.linkedin.com/in/jerinpaul/"
+		},
+		{
+			"name": "Mr. Athul Krishna P V",
+			"post": "Webmaster",
+			"image": "/images/office23/mrathulkrishna.jpg",
+			"linkedin": "https://www.linkedin.com/in/athul-krishna-pv-9a12301a8"
+		},
+		{
+			"name": "Mr. Nandu Kannan",
+			"post": "Entrepreneurship and Innovation Coordinator",
+			"image": "/images/offie23/mrnandhukannanm.jpg",
+			"linkedin": "https://www.linkedin.com/in/nandu-kannan-7755b11a4"
+		},
+		{
+			"name": "Mr. Vaishakh Suresh",
+			"post": "Special Interest Group AI Lead",
+			"image": "/images/office23/mrvaishakhsuresh.jpg",
+			"linkedin": "https://www.linkedin.com/in/vaishakh-suresh-25249a226"
+		},
+		{
+			"name": "Ms .Sruthi Biju",
+			"post": "Membership Development Coordinator",
+			"image": "/images/office23/mssruthibiju.jpg",
+			"linkedin": "https://www.linkedin.com/in/sruthi-biju-3bb887202"
+		}
+	]
+}
